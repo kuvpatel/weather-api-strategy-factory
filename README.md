@@ -1,4 +1,5 @@
-# Weather API (#### strategy & factory pattern example)
+# Weather API 
+#### strategy & factory pattern example
 
 A RESTful ASP.NET Core Web API that retrieves mock weather information using multiple weather providers. The application demonstrates Clean Architecture principles, the Strategy Pattern, and the Factory Pattern.
 
