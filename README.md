@@ -31,8 +31,6 @@ Weather.Api
 Weather.Application
     ↓
 Weather.Domain
-
-Weather.Api
     ↓
 Weather.Infrastructure
 ```
