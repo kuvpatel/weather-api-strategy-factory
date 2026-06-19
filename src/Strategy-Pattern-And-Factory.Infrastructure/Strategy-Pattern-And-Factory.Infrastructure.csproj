@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>Strategy_Pattern_And_Factory.Infrastructure</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../Strategy-Pattern-And-Factory.Application/Strategy-Pattern-And-Factory.Application.csproj" />
+    <ProjectReference Include="../Strategy-Pattern-And-Factory.Domain/Strategy-Pattern-And-Factory.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

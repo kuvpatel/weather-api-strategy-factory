@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="src/Strategy-Pattern-And-Factory-Api/Strategy-Pattern-And-Factory.Api.csproj" />
+  <Project Path="src/Strategy-Pattern-And-Factory.Application/Strategy-Pattern-And-Factory.Application.csproj" />
+  <Project Path="src/Strategy-Pattern-And-Factory.Domain/Strategy-Pattern-And-Factory.Domain.csproj" />
+  <Project Path="src/Strategy-Pattern-And-Factory.Infrastructure/Strategy-Pattern-And-Factory.Infrastructure.csproj" />
+  <Project Path="tests/Strategy-Pattern-And-Factory.IntegrationTests/Strategy-Pattern-And-Factory.IntegrationTests.csproj" />
+  <Project Path="tests/Strategy-Pattern-And-Factory.UnitTests/Strategy-Pattern-And-Factory.UnitTests.csproj" />
+</Solution>
